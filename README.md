@@ -6,7 +6,7 @@
 ---
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/louisacheong/nlp/blob/main/Dutch_NER_Portfolio_Cheong.ipynb)
 
-
+[![LinkedIn](https://img.shields.io/badge/-PhuiSanCheong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phui-san-louisa-cheong-6a62772/)](https://www.linkedin.com/in/phui-san-louisa-cheong-6a62772/)
 ## 🎯 Project Objective
 
 This project demonstrates the training of a **custom Named Entity Recognition (NER)** model in Dutch using the [spaCy](https://spacy.io/) NLP library. The aim is to identify domain-specific entities not recognized by default models — especially within the **insurance and business sectors**.
