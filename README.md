@@ -4,6 +4,8 @@
 **Portfolio Project – 2025**
 
 ---
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/louisacheong/nlp/blob/main/Dutch_NER_Portfolio_Cheong.ipynb)
+
 
 ## 🎯 Project Objective
 
