@@ -5,6 +5,8 @@ Welcome! This portfolio showcases my hands-on projects in Natural Language Proce
 ---
 
 ## Projects
+1. [Custom Dutch NER using spaCy](./dutch-ner/README.md)
+2. [Domain-specific Q&A using LoRA](./genai-qa-lora/README.md)
 
 ### 1. Custom Dutch NER using spaCy
 Created a Named Entity Recognition (NER) model tailored to Dutch insurance documents. Trained using spaCy with annotated entities such as:
