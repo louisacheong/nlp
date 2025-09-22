@@ -38,7 +38,7 @@ This project showcases the use of lightweight fine-tuning for scalable enterpris
 ---
 
 ## About Me
-I'm a data scientist based in Antwerp, Belgium, passionate about scalable AI and accessible NLP solutions. I specialize in applied ML for real-world domains such as healthcare, insurance, and education.
+I'm a data scientist based in Antwerp, Belgium, passionate about scalable AI and accessible NLP solutions. I specialize in applied ML for real-world domains such as healthcare, finance, and education.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/phui-san-louisa-cheong-6a62772/)
 
